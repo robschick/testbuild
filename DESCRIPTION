@@ -11,6 +11,6 @@ Authors@R:
 Description: Compendium description; it's amazing!
 License: What license it uses
 Depends: 
-    bookdown
+    bookdown, ggplot2
 Encoding: UTF-8
 LazyData: true
