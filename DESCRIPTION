@@ -1,16 +1,16 @@
+Type: Compendium
 Package: testbuild
-Title: What the Package Does (Great Things)
-Version: 0.0.0.9000
-Authors@R:
+Title: What the Package Does (Great things, naturally)
+Version: 0.0.1
+Authors@R: 
     person(given = "Robert",
            family = "Schick",
            role = c("aut", "cre"),
-           email = "rss10@duke.edu")
-Description: Explores data in binder, holepunch, etc.
-License: MIT + file LICENSE
-ByteCompile: true
+           email = "robert.schick@duke.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Compendium description; it's amazing!
+License: What license it uses
+Depends: 
+    bookdown
 Encoding: UTF-8
 LazyData: true
-Imports: bookdown
-URL: https://github.com/robschick/testbuild
-BugReports: https://github.com/robschick/testbuild/issues
