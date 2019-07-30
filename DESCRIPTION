@@ -12,3 +12,5 @@ ByteCompile: true
 Encoding: UTF-8
 LazyData: true
 Imports: bookdown
+URL: https://github.com/robschick/testbuild
+BugReports: https://github.com/robschick/testbuild/issues
