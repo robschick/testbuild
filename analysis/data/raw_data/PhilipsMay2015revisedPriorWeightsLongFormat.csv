@@ -1,0 +1,325 @@
+fromRegion,month,DownWeight,Comment,gender,monthNum
+BoF,January,4,,adMale,1
+BoF,February,5,,adMale,2
+BoF,March,5,,adMale,3
+BoF,April,3,,adMale,4
+BoF,May,1,Not much data,adMale,5
+BoF,June,1,I like this as is. Down weighting moves them into areas that I think are unlikely in this month,adMale,6
+BoF,July,2,,adMale,7
+BoF,August,4,"I wanted to allow for movement from Bof to GoM. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,8
+BoF,September,4,"I don't understand why so few go to RB when that was the 2nd highest movement in my priors. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",adMale,9
+BoF,October,3,,adMale,10
+BoF,November,2,,adMale,11
+BoF,December,1,,adMale,12
+BoF,January,4,,adFemale,1
+BoF,February,4,,adFemale,2
+BoF,March,4,,adFemale,3
+BoF,April,2,,adFemale,4
+BoF,May,2,,adFemale,5
+BoF,June,2,,adFemale,6
+BoF,July,2,,adFemale,7
+BoF,August,4,"I wanted to allow for movement from Bof to GoM. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adFemale,8
+BoF,September,4,,adFemale,9
+BoF,October,3,"Need more to be able to go to JL. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",adFemale,10
+BoF,November,3,,adFemale,11
+BoF,December,5,,adFemale,12
+BoF,January,3,,juveniles,1
+BoF,February,3,,juveniles,2
+BoF,March,2,,juveniles,3
+BoF,April,2,,juveniles,4
+BoF,May,2,,juveniles,5
+BoF,June,1,,juveniles,6
+BoF,July,2,,juveniles,7
+BoF,August,3,"I don't understand why so few go to RB when that was the 2nd highest movement in my priors. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",juveniles,8
+BoF,September,4,"Need more to be able to go to RB. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",juveniles,9
+BoF,October,2,,juveniles,10
+BoF,November,6,,juveniles,11
+BoF,December,1,,juveniles,12
+GOM,January,6,"I wanted to allow for movement to MIDA and NE. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,1
+GOM,February,3,,adMale,2
+GOM,March,3,"I wanted to allow for more movement to NE and MIDA. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,3
+GOM,April,5,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,4
+GOM,May,8,We have so little idea of whale movements starting in this month,adMale,5
+GOM,June,4,,adMale,6
+GOM,July,5,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,7
+GOM,August,2,,adMale,8
+GOM,September,2,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,9
+GOM,October,8,,adMale,10
+GOM,November,7,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,11
+GOM,December,5,,adMale,12
+GOM,January,5,"Need more to be able to go to GoM and MIDA. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",adFemale,1
+GOM,February,4,"Need more to be able to go to NE and less to be involved in SEUS (only a small portion of adult females calve each year). See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",adFemale,2
+GOM,March,2,,adFemale,3
+GOM,April,2,"Need more to be able to go to JL. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",adFemale,4
+GOM,May,8,"Need more to be able to go to BoF. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",adFemale,5
+GOM,June,4,"Need more to be able to go to NRTH. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",adFemale,6
+GOM,July,6,"Need more to be able to go to NE. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",adFemale,7
+GOM,August,2,,adFemale,8
+GOM,September,1,,adFemale,9
+GOM,October,8,"Need to be down grade JL. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",adFemale,10
+GOM,November,4,,adFemale,11
+GOM,December,8,,adFemale,12
+GOM,January,4,,juveniles,1
+GOM,February,2,,juveniles,2
+GOM,March,1,,juveniles,3
+GOM,April,2,"Need more to be able to go to JL. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",juveniles,4
+GOM,May,8,,juveniles,5
+GOM,June,4,,juveniles,6
+GOM,July,8,,juveniles,7
+GOM,August,2,,juveniles,8
+GOM,September,3,,juveniles,9
+GOM,October,8,,juveniles,10
+GOM,November,6,"Need to be down grade SEUS. See  ""Narrative Demographics for Rob- updates Feb 2015.docx"" for notes",juveniles,11
+GOM,December,1,,juveniles,12
+GSC,January,4,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,1
+GSC,February,4,,adMale,2
+GSC,March,4,"Want to allow for some going to the SEUS and JL. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,3
+GSC,April,5,"Want to allow for some going to the JL. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,4
+GSC,May,6,"Want to shift focus to GoM. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,5
+GSC,June,5,,adMale,6
+GSC,July,4,"Looks like most stay in GSC and that is definitely not the case. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,7
+GSC,August,2,,adMale,8
+GSC,September,2,,adMale,9
+GSC,October,3,"Want to shift focus away from BoF See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,10
+GSC,November,3,"Want to shift focus away from BoF See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,11
+GSC,December,1,,adMale,12
+GSC,January,4,,adFemale,1
+GSC,February,5,"Want to allow for some going to the NE. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adFemale,2
+GSC,March,2,,adFemale,3
+GSC,April,3,,adFemale,4
+GSC,May,6,"Want to shift focus to GoM. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adFemale,5
+GSC,June,5,,adFemale,6
+GSC,July,3,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adFemale,7
+GSC,August,2,,adFemale,8
+GSC,September,2,,adFemale,9
+GSC,October,2,"Want to shift focus away from BoF See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adFemale,10
+GSC,November,2,"Want to shift focus away from BoF See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adFemale,11
+GSC,December,2,,adFemale,12
+GSC,January,2,,juveniles,1
+GSC,February,5,,juveniles,2
+GSC,March,6,,juveniles,3
+GSC,April,6,,juveniles,4
+GSC,May,6,"Want to shift focus to GoM. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",juveniles,5
+GSC,June,3,,juveniles,6
+GSC,July,1,,juveniles,7
+GSC,August,2,,juveniles,8
+GSC,September,2,,juveniles,9
+GSC,October,2,"Want to shift focus away from BoF See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",juveniles,10
+GSC,November,4,,juveniles,11
+GSC,December,1,,juveniles,12
+JL,January,6,,adMale,1
+JL,February,3,,adMale,2
+JL,March,3,,adMale,3
+JL,April,3,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,4
+JL,May,1,"I'm not totally happy with how, in the absence of information, it creates evenly distributed priors across all habitats. Not sure what the solution is, but it is really unlikely that whales will go from JL to SEUS in May",adMale,5
+JL,June,2,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,6
+JL,July,2,,adMale,7
+JL,August,1,,adMale,8
+JL,September,1,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,9
+JL,October,3,,adMale,10
+JL,November,3,,adMale,11
+JL,December,4,"Wanted a few more to go to GoM from JL. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,12
+JL,January,3,,adFemale,1
+JL,February,3,,adFemale,2
+JL,March,2,,adFemale,3
+JL,April,2,,adFemale,4
+JL,May,2,,adFemale,5
+JL,June,2,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adFemale,6
+JL,July,1,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adFemale,7
+JL,August,2,,adFemale,8
+JL,September,,,adFemale,9
+JL,October,3,,adFemale,10
+JL,November,3,,adFemale,11
+JL,December,2,,adFemale,12
+JL,January,2,,juveniles,1
+JL,February,3,,juveniles,2
+JL,March,1,,juveniles,3
+JL,April,3,,juveniles,4
+JL,May,1,,juveniles,5
+JL,June,1,,juveniles,6
+JL,July,1,,juveniles,7
+JL,August,2,,juveniles,8
+JL,September,,,juveniles,9
+JL,October,3,,juveniles,10
+JL,November,2,,juveniles,11
+JL,December,1,,juveniles,12
+MIDA,January,3,,adMale,1
+MIDA,February,3,,adMale,2
+MIDA,March,2,,adMale,3
+MIDA,April,2,,adMale,4
+MIDA,May,1,"Not much data. Again, don't like that they get assigned to heading to the SEUS",adMale,5
+MIDA,June,3,,adMale,6
+MIDA,July,4,,adMale,7
+MIDA,August,4,,adMale,8
+MIDA,September,3,,adMale,9
+MIDA,October,8,,adMale,10
+MIDA,November,8,,adMale,11
+MIDA,December,1,These ones that I gave you no values for that are evenly distributed among the 9 areas- could we leave it blank instead?? It is more accurate than to say they are equally likely to be in ALL of the habitats,adMale,12
+MIDA,January,2,,adFemale,1
+MIDA,February,3,,adFemale,2
+MIDA,March,3,,adFemale,3
+MIDA,April,2,,adFemale,4
+MIDA,May,3,,adFemale,5
+MIDA,June,3,,adFemale,6
+MIDA,July,2,,adFemale,7
+MIDA,August,4,,adFemale,8
+MIDA,September,5,,adFemale,9
+MIDA,October,3,,adFemale,10
+MIDA,November,2,,adFemale,11
+MIDA,December,4,,adFemale,12
+MIDA,January,3,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",juveniles,1
+MIDA,February,2,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",juveniles,2
+MIDA,March,1,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",juveniles,3
+MIDA,April,2,,juveniles,4
+MIDA,May,1,,juveniles,5
+MIDA,June,1,,juveniles,6
+MIDA,July,5,,juveniles,7
+MIDA,August,5,,juveniles,8
+MIDA,September,4,,juveniles,9
+MIDA,October,3,,juveniles,10
+MIDA,November,2,,juveniles,11
+MIDA,December,4,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",juveniles,12
+NE,January,2,,adMale,1
+NE,February,4,,adMale,2
+NE,March,3,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,3
+NE,April,4,,adMale,4
+NE,May,1,Not much data,adMale,5
+NE,June,8,"The picture in June is likely similar to the picture in May (it is equally unlikely there will be any adult males in the NE to move in June and, given that, it is difficult to say where they would move to), but currently they look very different in the model- probably because some movements are assigned based on my saying there are movements from unknown to a place. We might want to consider removing all of those assessments because they end up looking like we know more than we do",adMale,6
+NE,July,4,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,7
+NE,August,2,,adMale,8
+NE,September,1,,adMale,9
+NE,October,5,,adMale,10
+NE,November,2,,adMale,11
+NE,December,1,Not much data,adMale,12
+NE,January,8,,adFemale,1
+NE,February,4,,adFemale,2
+NE,March,2,,adFemale,3
+NE,April,4,,adFemale,4
+NE,May,7,,adFemale,5
+NE,June,4,,adFemale,6
+NE,July,3,,adFemale,7
+NE,August,5,,adFemale,8
+NE,September,1,,adFemale,9
+NE,October,4,,adFemale,10
+NE,November,4,,adFemale,11
+NE,December,2,,adFemale,12
+NE,January,2,,juveniles,1
+NE,February,3,,juveniles,2
+NE,March,2,,juveniles,3
+NE,April,2,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",juveniles,4
+NE,May,2,,juveniles,5
+NE,June,7,,juveniles,6
+NE,July,2,,juveniles,7
+NE,August,2,,juveniles,8
+NE,September,1,Not much data,juveniles,9
+NE,October,5,,juveniles,10
+NE,November,5,,juveniles,11
+NE,December,8,"See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",juveniles,12
+NRTH,January,4,,adMale,1
+NRTH,February,6,,adMale,2
+NRTH,March,3,,adMale,3
+NRTH,April,6,,adMale,4
+NRTH,May,1,Not much data,adMale,5
+NRTH,June,3,"Wanted a few more to go from NRTH to NRTH. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,6
+NRTH,July,3,"Wanted a few more to go from NRTH to NRTH. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,7
+NRTH,August,3,"Wanted a few more to go from NRTH to NRTH. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,8
+NRTH,September,3,"Wanted a few more to go from NRTH to NRTH and RB. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,9
+NRTH,October,4,,adMale,10
+NRTH,November,5,,adMale,11
+NRTH,December,1,Not much data,adMale,12
+NRTH,January,6,,adFemale,1
+NRTH,February,6,,adFemale,2
+NRTH,March,6,,adFemale,3
+NRTH,April,6,,adFemale,4
+NRTH,May,3,,adFemale,5
+NRTH,June,3,"Wanted a few more to go from NRTH to NRTH. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adFemale,6
+NRTH,July,3,,adFemale,7
+NRTH,August,3,,adFemale,8
+NRTH,September,3,,adFemale,9
+NRTH,October,4,,adFemale,10
+NRTH,November,4,,adFemale,11
+NRTH,December,6,,adFemale,12
+NRTH,January,2,,juveniles,1
+NRTH,February,2,,juveniles,2
+NRTH,March,2,,juveniles,3
+NRTH,April,4,,juveniles,4
+NRTH,May,3,,juveniles,5
+NRTH,June,1,Not much data,juveniles,6
+NRTH,July,4,,juveniles,7
+NRTH,August,4,,juveniles,8
+NRTH,September,3,,juveniles,9
+NRTH,October,6,,juveniles,10
+NRTH,November,4,,juveniles,11
+NRTH,December,1,Not much data,juveniles,12
+RB,January,4,,adMale,1
+RB,February,3,,adMale,2
+RB,March,3,,adMale,3
+RB,April,3,,adMale,4
+RB,May,1,Not much data,adMale,5
+RB,June,2,"Wanted a few more to go from RB to NRTH and GOM. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,6
+RB,July,2,"Wanted a few more to go from RB to NRTH and GOM. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,7
+RB,August,3,"Wanted a few more to go from RB to NRTH, RB, and GOM. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,8
+RB,September,2,"Wanted a few more to go from RB to NRTH, RB, and GOM. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,9
+RB,October,3,"Wanted a few more to go from RB to RB. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,10
+RB,November,2,,adMale,11
+RB,December,1,Not much data,adMale,12
+RB,January,4,,adFemale,1
+RB,February,3,,adFemale,2
+RB,March,3,,adFemale,3
+RB,April,3,,adFemale,4
+RB,May,3,,adFemale,5
+RB,June,3,,adFemale,6
+RB,July,2,"Wanted a few more to go from RB to NRTH, BoF, and GOM. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adFemale,7
+RB,August,2,,adFemale,8
+RB,September,2,,adFemale,9
+RB,October,3,,adFemale,10
+RB,November,3,,adFemale,11
+RB,December,2,,adFemale,12
+RB,January,2,,juveniles,1
+RB,February,2,,juveniles,2
+RB,March,2,,juveniles,3
+RB,April,2,,juveniles,4
+RB,May,3,,juveniles,5
+RB,June,1,Not much data,juveniles,6
+RB,July,2,,juveniles,7
+RB,August,2,,juveniles,8
+RB,September,2,,juveniles,9
+RB,October,3,,juveniles,10
+RB,November,6,,juveniles,11
+RB,December,1,Not much data,juveniles,12
+SEUS,January,2,"I wanted to allow for movement to MIDA. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,1
+SEUS,February,3,"Wanted a few more to go MIDA. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adMale,2
+SEUS,March,2,,adMale,3
+SEUS,April,2,,adMale,4
+SEUS,May,1,Not much data,adMale,5
+SEUS,June,1,"The picture in June is likely similar to the picture in May (it is extremely unlikely there will be any adult males in the SEUS in June), but currently they look very different in the model- probably because some movements are assigned based on my saying there are movements from unknown to a place. We might want to consider removing all of those assessments because they end up looking like we know more than we do. UPDATE: when I phrase what I see as IF 1 male was in the SEUS in June, what is the probability of where it would go- the shiny looks fine for this month",adMale,6
+SEUS,July,2,same as above,adMale,7
+SEUS,August,1,same as above,adMale,8
+SEUS,September,1,same as above,adMale,9
+SEUS,October,6,,adMale,10
+SEUS,November,6,,adMale,11
+SEUS,December,1,Not much data,adMale,12
+SEUS,January,4,"I wanted to allow for movement to MIDA. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",adFemale,1
+SEUS,February,6,,adFemale,2
+SEUS,March,4,,adFemale,3
+SEUS,April,1,,adFemale,4
+SEUS,May,1,,adFemale,5
+SEUS,June,1,,adFemale,6
+SEUS,July,2,,adFemale,7
+SEUS,August,2,,adFemale,8
+SEUS,September,1,,adFemale,9
+SEUS,October,2,,adFemale,10
+SEUS,November,2,,adFemale,11
+SEUS,December,2,,adFemale,12
+SEUS,January,7,,juveniles,1
+SEUS,February,7,,juveniles,2
+SEUS,March,4,"Wanted a few more to go MIDA. See ""Narrative Demographics for Rob- updates Feb 2015.docx"" for updated prior values.",juveniles,3
+SEUS,April,1,,juveniles,4
+SEUS,May,1,,juveniles,5
+SEUS,June,1,Not much data,juveniles,6
+SEUS,July,2,,juveniles,7
+SEUS,August,2,,juveniles,8
+SEUS,September,1,,juveniles,9
+SEUS,October,2,,juveniles,10
+SEUS,November,2,,juveniles,11
+SEUS,December,5,,juveniles,12
