@@ -14,6 +14,12 @@ Our pre-print is online here:
 > journal/book, Accessed 30 Jul 2019. Online at
 > <https://doi.org/xxx/xxx>
 
+<!-- badges: start -->
+
+[![Launch Rstudio
+Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/robschick/testbuild/master?urlpath=rstudio)
+<!-- badges: end -->
+
 ### How to cite
 
 Please cite this compendium as:
